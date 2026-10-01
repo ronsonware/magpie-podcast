@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="magpie_bg">#0F1419</color>
+    <color name="magpie_surface">#1A222C</color>
+    <color name="magpie_surface_alt">#243040</color>
+    <color name="magpie_accent">#E8A838</color>
+    <color name="magpie_accent_dim">#B07A20</color>
+    <color name="magpie_text">#F2F4F7</color>
+    <color name="magpie_text_muted">#9AA5B1</color>
+    <color name="magpie_divider">#2E3A48</color>
+    <color name="magpie_icon_bg">#E31E24</color>
+    <color name="magpie_done">#3DDC97</color>
+    <color name="magpie_partial">#E8A838</color>
+</resources>

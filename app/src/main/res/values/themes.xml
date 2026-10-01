@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MagpiePodcast" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/magpie_accent</item>
+        <item name="colorPrimaryVariant">@color/magpie_accent_dim</item>
+        <item name="colorSecondary">@color/magpie_accent</item>
+        <item name="android:statusBarColor">@color/magpie_bg</item>
+        <item name="android:navigationBarColor">@color/magpie_bg</item>
+        <item name="android:windowBackground">@color/magpie_bg</item>
+        <item name="android:textColorPrimary">@color/magpie_text</item>
+        <item name="android:textColorSecondary">@color/magpie_text_muted</item>
+        <item name="colorOnPrimary">@color/magpie_bg</item>
+        <item name="colorSurface">@color/magpie_surface</item>
+        <item name="colorOnSurface">@color/magpie_text</item>
+    </style>
+</resources>

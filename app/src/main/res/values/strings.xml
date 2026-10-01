@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magpie Podcast</string>
+    <string name="login_title">Entrar na Magpie</string>
+    <string name="login_hint">Faça login no site (Google ou e-mail). O app captura o token automaticamente.</string>
+    <string name="episodes">Episódios</string>
+    <string name="history">Histórico</string>
+    <string name="logout">Sair</string>
+    <string name="continue_listening">Continuar</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="rewind">−15s</string>
+    <string name="forward">+30s</string>
+    <string name="empty_history">Nenhum episódio no histórico ainda.</string>
+    <string name="empty_filtered">Nenhum episódio com esses filtros.</string>
+    <string name="loading">Carregando…</string>
+    <string name="error_load">Falha ao carregar episódios. Verifique o login.</string>
+    <string name="resume_from">Continuar de %1$s</string>
+    <string name="filter_programs">Programas</string>
+    <string name="filter_guests">Tags / participantes</string>
+    <string name="sort_by">Ordenar:</string>
+    <string name="status_all">Todos</string>
+    <string name="status_unplayed">Não ouvidos</string>
+    <string name="status_progress">Em andamento</string>
+    <string name="status_done">Concluídos</string>
+    <string name="result_count">%1$d eps</string>
+    <string name="progress_done">100%</string>
+    <string name="progress_pct">%1$d%%</string>
+    <string name="clear_filters">Limpar filtros</string>
+</resources>
